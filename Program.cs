@@ -1,4 +1,6 @@
-﻿Console.Write("Ingrese un numero: ");
+﻿Console.WriteLine("CALCULADORA V2");
+
+Console.Write("Ingrese un numero: ");
 string numeroText = Console.ReadLine();
 
 if (!double.TryParse(numeroText, out double numero))
