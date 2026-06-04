@@ -1,4 +1,7 @@
-﻿bool continuar = true;
+﻿Console.WriteLine("CALCULADORA V1");
+
+
+bool continuar = true;
 
 while (continuar)
 {
@@ -60,9 +63,6 @@ while (continuar)
         continuar = false;
     }
 }
-
-
-
 
 
 
