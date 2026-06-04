@@ -1,4 +1,9 @@
-﻿Console.WriteLine("CALCULADORA V1");
+
+Console.WriteLine("CALCULADORA V1");
+Console.WriteLine("CALCULADORA V2");
+
+Console.Write("Ingrese un numero: ");
+string numeroText = Console.ReadLine();
 
 
 bool continuar = true;
